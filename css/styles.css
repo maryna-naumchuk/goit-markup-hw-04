@@ -300,7 +300,9 @@ img {
     padding: 120px 0;
 }
 
-.team-container {}
+.team-container {
+    padding: 32px 0;
+}
 
 .team-title {
     font-weight: 700;
